@@ -5,8 +5,8 @@ int main() {
 	//declaration
 	int val; 
 	
-	//i/o
-	cout << "Please enter a value greater than 0: ";
+	//i/o 
+	cout << "Please enter a value greater than 0: "; 
 	cin >> val;
 	
 	//input validation

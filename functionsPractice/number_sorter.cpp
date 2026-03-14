@@ -47,6 +47,8 @@ int main() {
         cout << "Enter number " << i+1 << ": ";
         cin >> nums[i];
     }
+    
+    
 
     bubbleSort(nums, size);
     printStats(nums, size);
